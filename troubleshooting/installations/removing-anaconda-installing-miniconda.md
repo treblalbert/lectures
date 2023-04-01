@@ -62,7 +62,7 @@ conda init bash
 conda create -y -n ironhack
 conda activate -y ironhack
 
-# 5. Install jupyter notebooks
+# 5. Install jupyter notebook
 conda install -y -c anaconda jupyter
 
 # 6. Installing kernel
@@ -78,7 +78,7 @@ conda install -y -c conda-forge jupyter_contrib_nbextensions
 ```bash
 # 8.1. On one terminal window
 conda activate ironhack
-jupyter notebooks #this will start notebooks
+jupyter notebook #this will start notebooks
 ```
 
 ```bash
